@@ -1,0 +1,15 @@
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/bin/Debug/net8.0/SudokuSolver
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.deps.json
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.runtimeconfig.json
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.dll
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.pdb
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.AssemblyInfoInputs.cache
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.AssemblyInfo.cs
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.sourcelink.json
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.dll
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/refint/SudokuSolver.dll
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.pdb
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.genruntimeconfig.cache
+/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/Debug/net8.0/ref/SudokuSolver.dll

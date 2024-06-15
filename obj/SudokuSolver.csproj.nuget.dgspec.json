@@ -1,35 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\development\\Dotnet\\SudokuSolver\\SudokuSolver.csproj": {}
+    "/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/SudokuSolver.csproj": {}
   },
   "projects": {
-    "C:\\development\\Dotnet\\SudokuSolver\\SudokuSolver.csproj": {
+    "/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/SudokuSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\Dotnet\\SudokuSolver\\SudokuSolver.csproj",
+        "projectUniqueName": "/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/SudokuSolver.csproj",
         "projectName": "SudokuSolver",
-        "projectPath": "C:\\development\\Dotnet\\SudokuSolver\\SudokuSolver.csproj",
-        "packagesPath": "C:\\Users\\dijkh\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\Dotnet\\SudokuSolver\\obj\\",
+        "projectPath": "/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/SudokuSolver.csproj",
+        "packagesPath": "/Users/bryandijkhuizen/.nuget/packages/",
+        "outputPath": "/Users/bryandijkhuizen/Development/Dotnet Projects/SudokuSolver/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dijkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/bryandijkhuizen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,17 +32,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
